@@ -1,0 +1,447 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    font-family: Arial;
+}
+nav{
+    background-color: black;
+    height:35px; width: 100%;
+}
+.item li{
+display: inline;
+}
+
+.item{
+   
+    margin-left: 260px;
+}
+.item a{
+    margin-top: 9px;
+    padding-left: 70px;
+    color: white;
+    text-decoration: none;
+    float: left;
+    font-family: sans-serif;
+    opacity: 0.7;
+    font-size: 12px;
+    
+}
+#appleicon{
+    width: 15px;
+    margin-top: 6px;
+    margin-left: -700px;
+    
+}
+.searchicon{
+    width: 15px;
+    margin-left: 745px;
+    
+    opacity: 0.7;
+}
+.bagicon{
+    width: 13px;
+     margin-top: 3px;
+     margin-left: 40px;    
+}
+.covidline{
+    background-color:rgb(0, 113, 227) ;
+    height:35px; width: 100%;
+}
+.covid-link a{
+    text-decoration: none;
+    color: white;
+    
+    
+    
+}
+.covid-link{
+    text-align: center;
+     font-size:13px;
+    font-family: sans-serif;
+    padding: 10px;
+
+    
+    }
+#shop-online{
+    text-decoration: none;
+    opacity: 0.8;
+    color: rgb(0, 113, 227);
+    
+}
+.shop{
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: black;
+    opacity: 0.8;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+h5{
+    opacity:0.8 ;
+    text-align:  center;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    color: grey;
+}
+.learn-more{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(41, 151, 255);
+
+}
+
+.second{
+    
+    height: 600px ; width: 100%;
+  background-image: url('images/iphone-12-pro-og.jpg');
+  background-repeat: no-repeat;   
+  
+  background-size: cover;
+
+}
+.second h1{
+    font-size: 50px;
+   text-align: center;
+   color: white;
+   padding: 20px;
+}
+.second h3{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    margin-top: -10px;
+}
+.second p{
+    text-align: center;
+    color: grey;
+    margin: 9px;
+}
+
+.pic-content-link{
+    text-align: center;
+    text-decoration: none;
+    margin: 9px;
+    color: rgb(41, 151, 255);
+}
+#img-apple{
+                margin-left: 550px;
+                margin-top: 35px;
+}
+#apple-para{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+  }
+.apple-under-link{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(41, 151, 255);
+
+}
+
+.apply-terms-para{ 
+    opacity: 0.7;
+    font-size: 16px;
+    margin: 10px;
+}
+.ipods{
+    
+    height: 335px ; width: 100%;
+  background-image: url('images/ipod.png');
+  background-repeat: no-repeat;   
+  
+  background-size: cover;
+
+}
+
+.div2{
+
+    display: flex;
+}
+.ipadair{
+    
+    height: 520px ; width: 50%;
+  background-image: url('images/ipadair.png'); 
+  background-repeat: no-repeat;   
+
+  background-size: cover;
+  margin: 8px;
+  
+
+  
+
+}
+.watch-pic{
+    height: 500px ; width: 50%;
+    background-image: url('images/watch.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+    
+    margin-top: 11px;
+
+
+}
+
+.heading-ipad{
+    text-align: center;
+    padding: 30px;
+    margin: -20px;
+}
+
+.ipad-para{
+  font-size: 24px ;
+  color: black;
+}
+
+.ipadpic-content{
+    text-align: center;
+    text-decoration: none;
+    
+    color: rgb(41, 151, 255);
+ 
+}
+
+
+    
+.watch-icon{
+     margin: 15px;
+     margin-left: 268px;
+}
+.watch-pic h1{
+    text-align: center;
+    color: white;
+    font-size:30px ;
+    margin-top: -45px;
+    margin-left: 45PX;
+}
+.watch-line{
+    color: red;
+    margin-top: -15px;
+    margin-left: 25px;
+    font-size: 20px;
+    opacity: 0.7;
+}
+#paraofwatch{
+    color: white;
+    margin-top: 4px;
+}
+.watch-pic-content{
+    
+    text-decoration: none;
+    color: rgb(41, 151, 255);
+}
+.div3{
+    display: flex;
+}
+
+.laptop-pic{
+    
+    height: 520px ; width: 50%;
+  background-image: url('images/laptop.png'); 
+  background-repeat: no-repeat;   
+
+  background-size: cover;
+  }
+
+  .fitness-pic{
+    height: 500px ; width: 50%;
+    background-image: url('images/fitness.png');
+    background-size: cover;
+    background-repeat: no-repeat;  
+    
+    
+
+
+}
+
+.laptop-pic h1{
+    text-align: center;
+    color: white;
+    padding: 35px;
+    font-size: 40px;
+}
+
+
+
+
+
+ .power-line{
+    color: white;
+    margin-top: -32px;
+    font-size: 20px;
+    margin-left: 5px;
+
+}
+
+
+.laptop-pic-content{
+    text-align: center;
+    text-decoration: none;
+
+    font-size: 14px;
+    margin-top: -45px;
+    color:rgb(41, 151, 255);
+    
+ 
+}
+
+.black-apple-icon{
+    margin-left: 230px;
+    margin-top: 32px;
+    
+}
+.sevenpic-head{
+    font-size: 33px;
+    margin-top: -32px;
+}
+
+div .fitness-pic p{
+    color: black;
+    margin: 5px;
+    font-size: 17px;
+     }
+
+.fitness-pic-content{
+    text-decoration:none;
+    color: rgb(41, 151, 255);
+    
+} 
+
+
+.div5{
+    display: flex;
+}
+.whiteappl{
+    height: 520px ; width: 50%;
+  background-image: url('images/bundle.jpg'); 
+  background-repeat: no-repeat;   
+
+  background-size: cover;
+  margin: 8px;
+}
+.lady-pic{
+    height: 520px ; width: 50%;
+  background-image: url('images/lady.jpg'); 
+  background-repeat: no-repeat;   
+
+  background-size: cover;
+  margin: 7px;
+}
+.apple-icon{
+    margin-left: 265px;
+    margin-top: 40px;
+}
+.bundle-six-head{
+    margin-top: -47px;
+    margin-left: 58px;
+    
+}
+.bundle-six-para{
+    color: black;
+    opacity: 0.9;
+    margin-left: 30px;
+    padding: 7px;
+}
+
+.bundlesix-pic-content{
+    text-decoration: none;
+    color: rgb(41, 151, 255);
+    margin-left: 20px;
+}
+
+.lady-pic-img{
+    margin-left: 285px;
+    margin-top: 25px;
+}
+.lady-pic-head{
+    color: white;
+    margin: -48px;
+    margin-left: 2px;
+
+}
+.lady-pic-para{
+    font-size: 30px;
+    margin-top: 55px;
+}
+span{
+    font-family: fantasy;
+}
+.lady-pic-head3{
+    color: white;
+    text-align: center;
+    margin-top: 320px;
+
+}
+.lady-pic-head4{
+    color: white;
+    text-align: center;
+    margin: -27px;
+}
+.playicon{
+ margin-left: 350px;
+ margin-top: 10px;
+}
+.footer{
+    height: 500px; width: 100%;
+    margin: 10px;
+    color: grey;
+}
+.footer-para{
+
+    margin-left: 180px;
+    text-align: justify;
+    font-size: 12px;
+    opacity: 0.8;
+    color: grey;
+    
+}
+.nav-head{
+    display: flex;
+    margin-left:180px;
+  
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    opacity:0.7 ;
+
+}
+ul li{
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+
+}
+
+.bold{
+    font-weight: bold;
+    opacity: 10;}
+.second-last-para{ 
+       font-size: 13px;
+       margin-left: -460px;
+}
+
+.a{
+    text-decoration: none;
+    color: rgb(0, 113, 227);
+}
+.last-para{
+    color: grey;
+    font-size:13px ;
+    margin-left: -90px;
+}
+#last-links{
+    text-decoration: none;
+    color: grey;
+}
